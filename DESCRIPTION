@@ -9,4 +9,4 @@ License: LGPL version 2 or newer
 Depends: R (>= 2.1.0), MASS
 SystemRequirements: Internal files Xba.CQV, Xba.regions (or other regions file)
 URL: http://www.stat.berkeley.edu/users/nrabbee/RLMM
-biocViews: Microarray, OneChannel, SNPsAndGeneticVariability
+biocViews: Microarray, OneChannel, SNP, GeneticVariability
